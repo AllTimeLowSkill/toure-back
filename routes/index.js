@@ -1,3 +1,3 @@
 module.exports = {
-  routes: ['toure', 'payment'],
+  routes: ['toure', 'payment', 'city'],
 }
